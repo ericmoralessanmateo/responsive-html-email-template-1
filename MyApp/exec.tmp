@@ -1,0 +1,85 @@
+18:59:16: 9100:         : -------------- Update License is running :9100 --------------------------------
+18:59:17: 8956:         : -------------- Update License is running :8956 --------------------------------
+18:59:17: 9100:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+18:59:17: 8956:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+18:59:21: 8956: Warning : UpdateLicenses can be run again after 19:01:20
+18:59:21: 8956:         : Exit
+18:59:21: 8956:         : -------------- Update License finished : 8956 --------------------------------
+18:59:21: 9100:         : FillServersPings begin
+18:59:21: 9100:         : FillServersPings: https://userarea.zennolab.com/ ping 52
+18:59:21: 9100:         : FillServersPings: https://userarea-us.zennolab.com/ ping 17
+18:59:22: 9100:         : FillServersPings: https://userarea-hk.zennolab.com/ ping 351
+18:59:22: 9100:         : FillServersPings: FastPingServer is https://userarea.zennolab.com/
+18:59:22: 9100:         : FillServersPings end
+18:59:36: 9100:         : hidgenPath = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen\HID.exe
+18:59:36: 9100:         : Path.GetDirectoryName(hidgenPath) = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen
+18:59:44: 9100:         : Begin group action: Group action
+18:59:44: 9100:         : - Executing suboperation "Saving files to the disk"
+18:59:44: 9100:         : - Suboperation result "Saving files to the disk": True
+18:59:44: 9100:         : - Executing suboperation "Unpacking and registering files"
+18:59:44: 9100:         : - Suboperation result "Unpacking and registering files": True
+18:59:44: 9100:         : - Executing suboperation "Remove archive"
+18:59:45: 9100:         : - Suboperation result "Remove archive": True
+18:59:45: 9100:         : End of group operation: Group action
+18:59:45: 9100:         : -------------- Update License finished : 9100 --------------------------------
+15:24:09: 6120:         : -------------- Update License is running :6120 --------------------------------
+15:24:09: 8084:         : -------------- Update License is running :8084 --------------------------------
+15:24:10: 6120:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+15:24:10: 8084:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+15:24:15: 8084:         : FillServersPings begin
+15:24:15: 6120:         : FillServersPings: https://userarea.zennolab.com/ ping 60
+15:24:15: 8084:         : FillServersPings: https://userarea.zennolab.com/ ping 95
+15:24:15: 6120:         : FillServersPings: https://userarea-us.zennolab.com/ ping 104
+15:24:15: 8084:         : FillServersPings: https://userarea-us.zennolab.com/ ping 72
+15:24:16: 6120:         : FillServersPings: https://userarea-hk.zennolab.com/ ping 398
+15:24:16: 6120:         : FillServersPings: FastPingServer is https://userarea.zennolab.com/
+15:24:16: 6120:         : FillServersPings end
+15:24:16: 8084:         : FillServersPings: https://userarea-hk.zennolab.com/ ping 399
+15:24:16: 8084:         : FillServersPings: FastPingServer is https://userarea.zennolab.com/
+15:24:16: 8084:         : FillServersPings end
+15:24:21: 6120:         : hidgenPath = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen\HID.exe
+15:24:21: 6120:         : Path.GetDirectoryName(hidgenPath) = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen
+15:24:30: 8084:         : hidgenPath = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen\HID.exe
+15:24:30: 8084:         : Path.GetDirectoryName(hidgenPath) = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen
+15:24:30: 6120:         : Begin group action: Group action
+15:24:30: 6120:         : - Executing suboperation "Saving files to the disk"
+15:24:30: 6120:         : - Suboperation result "Saving files to the disk": True
+15:24:30: 6120:         : - Executing suboperation "Unpacking and registering files"
+15:24:30: 6120:         : - Suboperation result "Unpacking and registering files": True
+15:24:30: 6120:         : - Executing suboperation "Remove archive"
+15:24:31: 6120:         : - Suboperation result "Remove archive": True
+15:24:31: 6120:         : End of group operation: Group action
+15:24:32: 6120:         : -------------- Update License finished : 6120 --------------------------------
+15:24:37: 8084:         : Begin group action: Group action
+15:24:37: 8084:         : - Executing suboperation "Saving files to the disk"
+15:24:37: 8084:         : - Suboperation result "Saving files to the disk": True
+15:24:37: 8084:         : - Executing suboperation "Unpacking and registering files"
+15:24:37: 8084:         : - Suboperation result "Unpacking and registering files": True
+15:24:37: 8084:         : - Executing suboperation "Remove archive"
+15:24:38: 8084:         : - Suboperation result "Remove archive": True
+15:24:38: 8084:         : End of group operation: Group action
+15:24:39: 8084:         : -------------- Update License finished : 8084 --------------------------------
+17:00:01: 21112:         : -------------- Update License is running :21112 --------------------------------
+17:00:01: 21020:         : -------------- Update License is running :21020 --------------------------------
+17:00:02: 21112:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+17:00:02: 21020:         : Check product registration: "SOFTWARE\ZennoLab\EN\ZennoPoster Standard\5.10.6.0"
+17:00:06: 21020: Warning : UpdateLicenses can be run again after 17:02:05
+17:00:06: 21020:         : Exit
+17:00:06: 21020:         : -------------- Update License finished : 21020 --------------------------------
+17:00:06: 21112:         : FillServersPings begin
+17:00:07: 21112:         : FillServersPings: https://userarea.zennolab.com/ ping 112
+17:00:07: 21112:         : FillServersPings: https://userarea-us.zennolab.com/ ping 87
+17:00:08: 21112:         : FillServersPings: https://userarea-hk.zennolab.com/ ping 358
+17:00:08: 21112:         : FillServersPings: FastPingServer is https://userarea.zennolab.com/
+17:00:08: 21112:         : FillServersPings end
+17:00:14: 21112:         : hidgenPath = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen\HID.exe
+17:00:14: 21112:         : Path.GetDirectoryName(hidgenPath) = C:\Program Files (x86)\ZennoLab\EN\ZennoPoster Standard\5.10.6.0\Progs\hidgen
+17:00:23: 21112:         : Begin group action: Group action
+17:00:23: 21112:         : - Executing suboperation "Saving files to the disk"
+17:00:23: 21112:         : - Suboperation result "Saving files to the disk": True
+17:00:23: 21112:         : - Executing suboperation "Unpacking and registering files"
+17:00:23: 21112:         : - Suboperation result "Unpacking and registering files": True
+17:00:23: 21112:         : - Executing suboperation "Remove archive"
+17:00:24: 21112:         : - Suboperation result "Remove archive": True
+17:00:24: 21112:         : End of group operation: Group action
+17:00:25: 21112:         : -------------- Update License finished : 21112 --------------------------------
